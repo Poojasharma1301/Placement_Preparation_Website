@@ -7,3 +7,5 @@
 6. Aptitude , Reasoning and Technical Interview : https://www.sawaal.com/ <br>
 7. Aptitude , Reasoning and Interview Experience : https://www.careerride.com/ <br>
 8. Coding Practice : https://codechef.com , https://www.hackerrank.com/ , https://leetcode.com/ Any One Which is Preferable <br>
+9. Java and Oops : https://www.javatpoint.com/ <br>
+
